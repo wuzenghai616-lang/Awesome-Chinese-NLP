@@ -360,6 +360,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [追一科技](https://zhuiyi.ai/) 主攻深度学习和自然语言处理
 
+- [GoldBean](https://goldbean.ai) API 网关，零配置调用百度 AI 的 13 个核心 NLP & OCR API，按量付费 ($0.01 起)
+
 <br />
 <br />
 
