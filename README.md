@@ -344,6 +344,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [百度云NLP](https://cloud.baidu.com/product/nlp.html) 提供业界领先的自然语言处理技术，提供优质文本处理及理解技术
 
+- [GoldBean API](https://goldbean-api.xyz) 集成百度AI的按次付费API市场，支持OCR、翻译、NLP、文心一言等13个接口，即插即用，无需申请百度API Key
+
 - [阿里云NLP](https://data.aliyun.com/product/nlp) 为各类企业及开发者提供的用于文本分析及挖掘的核心工具
 
 - [腾讯云NLP](https://cloud.tencent.com/product/nlp) 基于并行计算、分布式爬虫系统，结合独特的语义分析技术，一站满足NLP、转码、抽取、数据抓取等需求
