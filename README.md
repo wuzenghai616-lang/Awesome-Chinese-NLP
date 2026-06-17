@@ -386,3 +386,5 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [NLP研究入门之道](https://github.com/zibuyu/research_tao) from清华刘知远老师
 
 - [Chinese NLP](https://chinesenlp.xyz/#/) Shared tasks, datasets and state-of-the-art results for Chinese Natural Language Processing 
+
+* [GoldBean x Baidu AI](https://goldbean-api.xyz) - 百度 AI 13 个 API 即插即用：OCR（身份证/银行卡/营业执照/发票）、通用翻译（200+语言）、词法分析、情感倾向分析、文本纠错、文心大模型。按次付费 $0.01 起，无需预存。
